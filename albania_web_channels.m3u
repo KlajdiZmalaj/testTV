@@ -11,14 +11,28 @@ https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="Euronews Albania" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Web",Euronews Albania
 https://www.youtube.com/@EuronewsAlbania/live
+#EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="Web",Fieri Tv
+http://valashop.online:8090/fieritv.m3u8
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png" group-title="Web",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al" tvg-name="ntv" group-title="Web",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="Web",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" group-title="Web",Panorama TV
 http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Web",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1" group-title="Web",RTSH 1
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2" group-title="Web",RTSH 2
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24" group-title="Web",RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip" group-title="Web",RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport" group-title="Web",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" group-title="Web",Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopNews.al" tvg-name="Top News" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="Web",Top News
@@ -29,5 +43,9 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
 #EXTINF:-1 tvg-id="TVApollon.al" tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="Web",TV Apollon
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+#EXTINF:-1 tvg-id="TVJohaniter.al" tvg-name="TV Johaniter" group-title="Web",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" group-title="Web",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-name="Zjarr TV" group-title="Web",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
